@@ -4,7 +4,7 @@
 
 > This project is my first ever on microverse and its a linter setup as well as a hello world
 
-![screenshot](./app_screenshot.png)
+![screenshot](./appScreensot.png)
 
 This is a simple hello world project
 
@@ -13,30 +13,31 @@ This is a simple hello world project
 - HTML
 - CSS
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://livedemo.com) -->
+[Live Demo Link](https://bereketretta.github.io/MicroverseHelloWorld/) 
 
 
 ## Getting Started
 
 
 you can clone and play around 
+you can clone the app with git clone https://github.com/BereketRetta/MicroverseHelloWorld.git
 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/BereketRetta)
-- Twitter: [@twitterhandle](https://twitter.com/bekiopia)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/bereketretta)
+- GitHub: [@bereketretta](https://github.com/BereketRetta)
+- Twitter: [@bekiopia](https://twitter.com/bekiopia)
+- LinkedIn: [Bereket Retta](https://linkedin.com/in/bereketretta)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-<!-- Feel free to check the [issues page](../../issues/). -->
+Feel free to check the [issues](https://github.com/BereketRetta/MicroverseHelloWorld/issues).
 
 ## Show your support
 
@@ -48,4 +49,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENCE) licensed.
